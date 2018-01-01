@@ -6,6 +6,7 @@ python3 main.py
 ```
 
 >爬取后的内容存储在MongoDb中, 需要提前安装好MongoDb数据库
+
 ![](https://s1.ax1x.com/2018/01/02/ppVBZQ.png)
 
 >关于配置
