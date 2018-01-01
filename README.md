@@ -1,5 +1,5 @@
 # TouTiao
-###使用方法, 进入目录, 在shell执行下面命令
+>使用方法, 进入目录, 在shell执行下面命令
 ```python
 pip3 install -r requirements.txt
 python3 main.py
